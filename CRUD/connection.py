@@ -9,4 +9,4 @@ db = mysql.connector.connect(
 
 #if succesfully connected
 if db.is_connected():
-  print("Terhubung dengan Database")
+  print("Connected With Database")
