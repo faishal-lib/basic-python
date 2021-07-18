@@ -3,6 +3,7 @@
 - First, you need to install pip
 - After pip installed, open CMD
 - Type : pip install mysql-connector
+- Wait until success
 - Done
 
 # Application Needed
