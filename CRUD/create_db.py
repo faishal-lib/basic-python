@@ -11,4 +11,4 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 cursor.execute("CREATE DATABASE toko_super")
 
-print("Berhasil membuat database")
+print("Database Created Succesfully!")
