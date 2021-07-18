@@ -1,7 +1,7 @@
 # Application Needed
 - Xampp (for mysql-server)
 - Text Editor (Notepad++, Sublime Text, JupyterLab, Visual code dll)
-- Pip on windows
+- Pip for windows
 
 # Install mysql-connector
 
